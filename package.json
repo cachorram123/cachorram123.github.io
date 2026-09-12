@@ -1,0 +1,13 @@
+{
+  "name": "santascreen",
+  "version": "1.0.0",
+  "description": "Transmita sua tela em 1080p 60fps (com som) e câmera em grupos — entre só com um nome e um código",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
